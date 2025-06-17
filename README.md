@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annette-alca
 - 👀 I’m interested in Python, data engineering, data analytics, cloud applications, and bioinformatics projects.
-- 🌱 I’m currently working on an ETL project on AWS. 
+- 🌱 I’m currently brushing up on psql and studying pytorch. 
 - 💞️ I’m looking to collaborate on ETL processes and bioinformatics projects. And I like anything involving decorators, mocks, and recursive functions!
 - 📫 You can message [me on LinkedIn](https://www.linkedin.com/in/annette-alcasabas/)
 - 😄 Pronouns: she/her
