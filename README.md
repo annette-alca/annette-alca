@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @annette-alca
-- 👀 I’m interested in Python, data engineering, machine learning, cloud applications, and bioinformatics projects.
-- 🌱 I’m currently brushing up on psql and studying TensorFlow. 
-- 💞️ I’m looking to collaborate on ETL processes, machine learning, and bioinformatics projects. And I like anything involving decorators, mocks, and recursive functions!
+- 👀 I’m interested in Python, data engineering, machine learning, cloud applications.
+- 🌱 I currently work as a software engineer. 
+- 💞️ I’m looking to collaborate on ETL processes, machine learning projects with finance or biotechnology applications. And I like anything involving decorators, mocks, and recursive functions!
 - 📫 You can message [me on LinkedIn](https://www.linkedin.com/in/annette-alcasabas/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like learning languages (spoken, not just coding). My first language is Tagalog (Filipino). Great thing about Tagalog? Universal pronouns. But the best thing? The accidental tense. The prefixes 'napa-' for past tense, 'napapa-' for present tense, and 'mapapa-' for future tense make verbs unintentional.
