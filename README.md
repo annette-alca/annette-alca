@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @annette-alca
 - 👀 I’m interested in Python, data engineering, machine learning, cloud applications.
-- 🌱 I currently work as a software engineer. 
+- 🌱 I currently work as a software engineer in Fintech.
 - 💞️ I’m looking to collaborate on ETL processes, machine learning projects with finance or biotechnology applications. And I like anything involving decorators, mocks, and recursive functions!
 - 📫 You can message [me on LinkedIn](https://www.linkedin.com/in/annette-alcasabas/)
 - 😄 Pronouns: she/her
